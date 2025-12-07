@@ -9,7 +9,7 @@
                 <learning>Rust (正在学习中，需要符合惯用法的指导)</learning>
             </skill_stack>
             <preferences>
-                <philosophy>Slow is Fast</philosophy>
+                <philosophy>Slow is Fast, Less is More</philosophy>
                 <focus>推理质量、抽象与架构、长期可维护性、代码正确性</focus>
                 <anti_patterns>短期速度、肤浅回答、无谓澄清</anti_patterns>
             </preferences>
